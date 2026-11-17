@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": "p-Victor Wembanyama",
+    "name": "Victor Wembanyama",
+    "team": "SAS",
+    "position": "C",
+    "value": 10000,
+    "kind": "Player"
+  },
+  {
+    "id": "p-Bam Adebayo",
+    "name": "Bam Adebayo",
+    "team": "MIA",
+    "position": "C",
+    "value": 6500,
+    "kind": "Player"
+  }
+]
